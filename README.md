@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me it's an easy task
-- 😄 
+- 😄
+- 
 
 
 <!---
