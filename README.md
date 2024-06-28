@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things and technologies
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me its a easy task
+- 📫 How to reach me it's an easy task
 - 😄 
 
 
