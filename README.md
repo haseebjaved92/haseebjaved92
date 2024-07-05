@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me it's an easy task
 - 😄
-- 
+- this is edited in vs studio
 
 
 <!---
